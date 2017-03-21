@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Валентина Кравченко](https://up.htmlacademy.ru/javascript/9/user/150859).
-* Наставник: `Неизвестно`.
+* Наставник: `The Greatest Guru`.
 
 ---
 
